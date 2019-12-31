@@ -10,3 +10,14 @@ Linear Regression Model that predicts the number of Free Throw Attempts James Ha
 </ol>
 
 The data used to train the model was obtain from www.basketball-reference.com
+
+<h1>Parameters of the Linear Regression Model</h1>
+<ol>
+<li>Minutes Played</li>
+<li>Outcome of the Game (Win/Loose)</li>
+<li>Two Pointer Attempts</li>
+<li>Field Goal Percentage</li>
+<li>Free Throws Made</li>
+<li>Points</li>
+<li>Steals</li>
+</ol>
