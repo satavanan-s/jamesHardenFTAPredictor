@@ -21,3 +21,4 @@ The data used to train the model was obtain from www.basketball-reference.com
 <li>Points</li>
 <li>Steals</li>
 </ol>
+![Alt text](jamesHardenFTAPredictor)
